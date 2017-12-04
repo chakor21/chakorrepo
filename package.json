@@ -1,0 +1,16 @@
+{
+  "name": "sgames",
+  "version": "1.0.1",
+  "description": "This is all about node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "author": "Chakor",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "jasmine-core": "2.8.0",
+    "underscore": "1.8.3"
+  }
+}
